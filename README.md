@@ -12,3 +12,5 @@ added startup code and create input and index modules and their implementation
 ```
 node nodes.js --add "This is a really cool thing that I wanted to remember for later"
 ```
+
+![Drag Racing](./UML/noty.jpg)
