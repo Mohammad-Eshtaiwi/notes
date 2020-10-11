@@ -1,0 +1,24 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-Eshtaiwi/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammad-Eshtaiwi/notes/issues"
+  },
+  "homepage": "https://github.com/Mohammad-Eshtaiwi/notes#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
