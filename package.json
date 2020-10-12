@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Mohammad-Eshtaiwi/notes#readme",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "uniqid": "^5.2.0"
   }
 }
