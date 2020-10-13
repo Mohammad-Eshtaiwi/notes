@@ -17,6 +17,15 @@ used classes instead of function constructors and add test using jest
 
 it took 4 hours
 
+## class 2
+
+- Repository Name: `notes`
+- Branch Name: `class-3`
+
+add mongoDB and add new features (list ,delete)
+
+it took 3 hours
+
 ### How to Use:
 
 ```
