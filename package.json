@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Mohammad-Eshtaiwi/notes#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "minimist": "^1.2.5",
+    "mongoose": "^5.10.9",
     "uniqid": "^5.2.0"
   },
   "devDependencies": {
